@@ -39,3 +39,6 @@ dotnet test
 ## Author
 
 *   **Ryan Simiyu** 
+
+## Notes
+[ASP.NET Core and MongoDB Documentation](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mongo-app?view=aspnetcore-3.0&tabs=visual-studio-code#create-the-aspnet-core-web-api-project)
